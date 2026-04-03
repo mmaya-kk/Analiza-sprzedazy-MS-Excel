@@ -1,4 +1,4 @@
-Projekt wykonany w ramach studiów w programie MS Excel wraz ze sprawozdaniem wykonanym w LaTeX.
+Projekt wykonany w ramach studiów w programie MS Excel 2016 wraz ze sprawozdaniem wykonanym w LaTeX.
 
 W projekcie skupiono się na pełnej automatyzacji raportu, aby uniknąć ręcznego wpisywania danych:
 
