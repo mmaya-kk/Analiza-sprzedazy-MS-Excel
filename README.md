@@ -7,7 +7,7 @@ W projekcie skupiono się na pełnej automatyzacji raportu, aby uniknąć ręczn
 3.  **Wykresy dynamiczne:** Automatyczna aktualizacja wizualizacji danych po zmianie parametrów wejściowych.
 4.   **Sprawozdanie:** Profesjonalne sprawozdanie projektu wykonane w programie LaTeX -dokładnie opisuje przebieg projektu krok-po-kroku.
 
-Ponieżej kilka wykresów wizualizujących wyniki:
+Poniżej kilka wykresów wizualizujących wyniki:
 
-![](wykres1.png)
-![](wykres2.png)
+![](images/wykres1.png)
+![](images/wykres2.png)
