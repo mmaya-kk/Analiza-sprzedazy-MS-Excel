@@ -10,4 +10,5 @@ W projekcie skupiono się na pełnej automatyzacji raportu, aby uniknąć ręczn
 Poniżej kilka wykresów wizualizujących wyniki:
 
 ![](images/wykres1.png)
+
 ![](images/wykres2.png)
